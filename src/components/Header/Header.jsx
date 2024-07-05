@@ -8,7 +8,7 @@ const Header = () => {
     <div className="headerMain">
       <img
         style={{ height: "min-content" }}
-        src="../../../src/assets/images/logo.svg"
+        src="./src/assets/images/logo.svg"
       />
       <NavBar />
       <Avatar />
