@@ -12,7 +12,7 @@ const Avatar = () => {
     <>
       <img
         className="avatar-icon"
-        src="../../../src/assets/images/image-avatar.png"
+        src="./src/assets/images/image-avatar.png"
         style={style}
       />
     </>
