@@ -5,7 +5,7 @@ import ProductDesc from "./ProductDesc";
 
 const Main = () => {
   const [mainImg, setMainImg] = useState(
-    "../../../src/assets/images/image-product-1.jpg"
+    "./src/assets/images/image-product-1.jpg"
   );
 
   return (
