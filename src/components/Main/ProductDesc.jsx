@@ -66,7 +66,7 @@ const ProductDesc = ({ mainImg }) => {
         <div>
           <button className="minus-btn" onClick={handleClickMinusBtn}>
             <img
-              src="../../../src/assets/images/icon-minus.svg"
+              src="./src/assets/images/icon-minus.svg"
               alt="Minus Icon"
             />
           </button>
@@ -74,7 +74,7 @@ const ProductDesc = ({ mainImg }) => {
           <button className="plus-btn">
             <img
               onClick={handleClickPlusBtn}
-              src="../../../src/assets/images/icon-plus.svg"
+              src="./src/assets/images/icon-plus.svg"
               alt="Plus-Btn Icon"
             />
           </button>
